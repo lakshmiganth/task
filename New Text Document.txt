@@ -1,0 +1,2 @@
+1.HTTP2 is much faster and more reliable than HTTP1.1
+2.object can also be created using the object.create(). method. this method can be bery usrful in javascropt
